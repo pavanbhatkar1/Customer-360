@@ -24,7 +24,5 @@ Customer360 enables e-commerce businesses to identify high-value customers, pred
 ## Future Work
 Deploy as an interactive Streamlit dashboard.
 Integrate real-time churn tracking via Airflow.
-Add SHAP-based interpretability for customer-level insights.
-## Author
-Akshat Sinha – Data Science & Machine Learning
-IIT (ISM) Dhanbad
+Add SHAP-based interpretability for customer-level insights
+
